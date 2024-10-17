@@ -1,5 +1,5 @@
 # Erick Nunes
-Desenvolvedor Backend 
+Desenvolvedor Frontend 
 
 [LinkedIn](https://www.linkedin.com/in/erick-nunes-3a1274287/)  [portfólio](https://portfolio-sigma-seven-57.vercel.app)
 
