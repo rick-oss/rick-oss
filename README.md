@@ -18,5 +18,8 @@ Atualmente estou focado em aprender TypeScript e aprofundar meus conhecimentos e
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js icon" width="40" height="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python icon" width="40" height="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git icon" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github icon" width="40" height="40"/>
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/github?color=ffffff&size=40"/>
+            <img src="https://deviconapi.vercel.app/github?color=000000&size=40" alt="Github icon" width="40" height="40"/>
+        </picture>
     </p>
