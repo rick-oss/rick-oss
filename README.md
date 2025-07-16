@@ -26,5 +26,5 @@ Atualmente estou focado em aprender TypeScript e aprofundar meus conhecimentos e
 <h2>Github  Stats</h2>
     <p> 
         <img src="https://github-readme-stats.vercel.app/api?username=rick-oss&show_icons=true&theme=radical" /> 
-				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rick-oss&layout=compact&theme=radical"/>
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rick-oss&layout=compact&theme=radical&card_height=195"/>
     </p>
