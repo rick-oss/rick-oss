@@ -1,7 +1,5 @@
 <h1 align="center">Faaaala devs! 👋</h1>
 
-[LinkedIn](https://www.linkedin.com/in/erick-nunes-3a1274287/) [portfólio](https://portfolio-sigma-seven-57.vercel.app)
-
 <p>Meu nome é Erick Nunes, tenho 21 anos. Sou um desenvolvedor web front-end.</p>
 <p>Atualmente estou focado em aprender TypeScript e aprofundar meus conhecimentos em React.js</p>
 
