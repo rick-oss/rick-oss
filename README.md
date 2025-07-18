@@ -29,6 +29,22 @@
         </picture>
     </p>
 
+<h2>Contato</h2>
+    <p>
+        <a href="https://www.linkedin.com/in/nunes-erick/" target="_blank">
+            <img 
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link para linkedIn ">
+        </a>
+		<a href="https://meuport-dev.vercel.app">
+			<img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"
+			alt="Link para portfólio">
+		</a>
+		<a href="mailto:erick.nunes.dev@gmail.com" target="_blank">
+			<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+			alt="Link para enviar email">
+		</a>
+    </p>
+
 <h2>Github Stats</h2>
     <p> 
 			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rick-oss&theme=radical" />
