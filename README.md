@@ -1,7 +1,7 @@
 <h1 align="center">Faaaala devs! 👋</h1>
 
-<p>Meu nome é Erick Nunes, tenho 21 anos. Sou um desenvolvedor web front-end.</p>
-<p>Atualmente estou focado em aprender TypeScript e aprofundar meus conhecimentos em React.js</p>
+Meu nome é Erick Nunes, tenho 21 anos. Sou um desenvolvedor web front-end.  
+Atualmente estou focado em aprender TypeScript e aprofundar meus conhecimentos em React.js
 
 <h2>Sobre Mim</h2>
     <ul>
