@@ -6,7 +6,13 @@ Meu nome é Erick Nunes, tenho 21 anos. Sou um desenvolvedor web front-end.
 Atualmente estou focado em aprender TypeScript e aprofundar meus conhecimentos em React.js
 
 <h2>Sobre Mim</h2>
-    Meu primeiro contato com a área foi aos 17 anos. Python chamou minha atenção e me conquistou. Comecei a consumir todo tipo de conteúdo disponível na internet sobre a linguagem: de cursos introdutórios a projetos, de frameworks a bancos de dados. Comecei a produzir e reproduzir pequenos projetos. Foi quando a ideia de "estilizar", de dar cara para meus códigos, veio à mente. Então, comecei a aprender HTML e CSS e continuei a desenvolver pequenos projetos agora com o uso deles(alguns que inclusive estão aqui). Para minha sorte(ou azar), senti a necessidade e vontade de interagir com essa "frente". Agora, estou estudando JavaScript...🤡
+    <ul>
+        <li>Comecei meus estudos na área aos 17 anos</li>
+        <li>Meu primeiro contato foi com <strong>Python</strong>, que despertou minha curiosidade por lógica e desenvolvimento</li>
+        <li>Depois disso, mergulhei em <strong>HTML</strong> e <strong>CSS</strong> pra dar cara pros meus códigos</li>
+        <li>Hoje foco em desenvolvimento front-end com <strong>React</strong></li>
+        <li>Tô sempre estudando, quebrando a cabeça e melhorando um pouco a cada projeto</li>
+    </ul>
 
 <h2>Stacks</h2>
     <p align="center">
